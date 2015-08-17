@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+    <name>
+        <lang name="default">Rating Bonus</lang>
+        <lang name="russian">Бонусный рейтинг</lang>
+    </name>
+    <author>
+        <lang name="default">author</lang>
+        <lang name="russian">Артем tema_mak Маковецкий</lang>
+    </author>
+    <homepage>http://livestreet.ru</homepage>
+    <version>1.0.2</version>
+    <requires>
+        <livestreet>1.0.3</livestreet>
+        <plugins>
+        </plugins>
+    </requires>
+    <description>
+        <lang name="default">Add rating for any user actions </lang>
+        <lang name="russian">Плагин добавляет поощерения пользователей за различные действия</lang>
+    </description>
+</plugin>
